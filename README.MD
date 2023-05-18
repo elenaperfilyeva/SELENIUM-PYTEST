@@ -1,3 +1,5 @@
+# SELENIUM-PYTEST
+
 This is an example of Selenium-pytest test automation framework for a web application.
 
 ### Setup (Windows):
