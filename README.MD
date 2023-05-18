@@ -1,6 +1,6 @@
 # SELENIUM-PYTEST
 
-This is an example of Selenium-pytest test automation framework with database (sqllite3) usage for a web application.
+This is an example of Selenium-pytest test automation framework with database (sqlite3) usage for a web application.
 
 ### Setup (Windows):
 Activate virtual environment to run tests (run in PowerShell)
